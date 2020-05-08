@@ -1,0 +1,64 @@
+.dropdown{ padding:20px; border-radius:40px; background-color:}
+
+
+
+.dropdown:hover{background-color:#03F;}
+
+
+
+button>a{color:#3F6; text-decoration:none;}
+
+
+
+
+.drop{ width:100px; padding:20px; border-radius:40px; cursor:pointer; background-color:#CCC;}
+.drop:hover{background-color:#03f;}
+
+
+
+
+select>a{color:#3f6; cursor:pointer; color:#0F6;}
+
+
+
+
+
+table { padding:50px; background-color:#06F;}
+
+
+.th1 { padding:5px; text-align:center; font-size:28px;}
+
+
+
+.th2 { padding:5px; text-align:center; font-size:28px;}
+
+
+
+.th3 { padding:5px; text-align:center; font-size:28px;}
+
+
+
+.th4 { padding:5px; text-align:center; font-size:28px;  }
+
+
+
+.img{ word-spacing:40px; padding:40px; margin:30px 30px 30px; padding-left:40px; padding-right:40px; padding-top:40px; 
+padding-bottom:40px;}
+
+.drop { text-decoration:none; padding:20px; border-radius:30px;}
+
+
+.para { margin:0px 100px 50px; line-height:25px;}
+
+
+.para1 { margin:0px 100px 50px; line-height:25px;}
+
+.para2 { margin:0px 100px 50px; line-height:25px;}
+ 
+.para3 { margin:0px 100px 50px; line-height:25px;}
+
+.ht { font-size:32px; margin-left:30px;}
+
+span>a { text-decoration:none;}
+
+
